@@ -1,16 +1,13 @@
-# flutter_inspiration_app_ui
+# Flutter Inspiration App UI Design
 
-A new Flutter application.
+Flutter Inspiration App UI design - day 1 #flutter.
 
-## Getting Started
+<p>This repository is a part of my flutter journey!.</p>
 
-This project is a starting point for a Flutter application.
+<p>In this video i've used, Flutter AspectRatio, ListView, LinearGradient and so on in it.</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## ScreenShot
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets/screenshot/one.png" height="500em" /><img src="assets/screenshot/two.png" height="500em" />
+
